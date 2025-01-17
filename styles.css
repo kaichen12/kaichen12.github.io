@@ -4,5 +4,12 @@
 body {
   font-family: sans-serif;
 }
-
+#Intro {
+  background-color: #ADD8E6;
+  font-size: 20px;
+}
+#Story {
+  background-color: #E6FFE6;
+  font-size: 20px
+}
   
